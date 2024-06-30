@@ -2,7 +2,7 @@
 
 기업 가치 평가를 진행할 때 필요한 데이터를 일일이 찾기 번거롭지 않으신가요?
 
-[ValueGa](http://3.35.129.99/)는 자동화된 템플릿과 재무 데이터로 이러한 과정 단축시켜 사용자가 로직에만 집중할 수 있도록 지원합니다.
+[ValueGa](http://3.35.129.99/)는 자동화된 템플릿과 재무 데이터로 이러한 과정을 단축시켜 사용자가 로직에만 집중할 수 있도록 지원합니다.
 
 
 
@@ -55,14 +55,12 @@
               ****1633
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/jjun990908">
-<!--               <img src="https://github.com/jjun990908.png" width="100"> -->
+            <a href="https://github.com/KimRiun">
+<!--               <img src="https://github.com/KimRiun.png" width="100"> -->
               <br />
               <b>김경륜 (
-jjun990908)</b>
+KimRiun)</b>
             </a> 
-                       <br/>
-              ****1620
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/ho-jun99">
