@@ -37,41 +37,48 @@
 <table>
     <tr align="center">
         <td style="min-width: 150px;">
-            <a href="https://github.com/jea0716">
-<!--               <img src="https://github.com/jea0716.png" width="100"> -->
+            <a href="https://github.com/subsub97">
+              <img src="https://github.com/subsub97.png" width="100">
               <br />
-              <b>김득호 (jea0716)</b>
+              <b>김득호(KimRiun)</b>
             </a> 
-            <br/>
-              ****1609
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/hayounSong">
-<!--               <img src="https://github.com/hayounSong.png" width="100"> -->
+            <a href="https://github.com/sdc05103">
+              <img src="https://github.com/sdc05103.png" width="100">
               <br />
-              <b>우채윤</b>
-            </a>
-                       <br/>
-              ****1633
+              <b>우채윤(KimRiun)</b>
+            </a> 
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/KimRiun">
-<!--               <img src="https://github.com/KimRiun.png" width="100"> -->
+              <img src="https://github.com/KimRiun.png" width="100">
               <br />
-              <b>김경륜 (
-KimRiun)</b>
+              <b>김경륜(KimRiun)</b>
             </a> 
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/ho-jun99">
-<!--               <img src="https://github.com/ho-jun99.png" width="100"> -->
+            <a href="https://github.com/kmj-99">
+              <img src="https://github.com/kmj-99.png" width="100">
               <br />
-              <b>김민중 (ho-jun99)</b>
+              <b>김민중(KimRiun)</b>
             </a> 
-                       <br/>
-              ****1605
-        
-
+        </td>
+    </tr>
+<tr align="center">
+        <td style="min-width: 150px;">
+            득호 설명
+        </td>
+            <td style="min-width: 150px;">
+            채윤 설명
+        </td>
+                <td style="min-width: 150px;">
+            경륜 설명
+        </td>
+                    <td style="min-width: 150px;">
+            민중 설명
+        </td>
+    </tr>
     
 </table>
 
